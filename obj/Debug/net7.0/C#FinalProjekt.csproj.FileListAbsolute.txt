@@ -1,0 +1,14 @@
+C:\Users\august.wendel\Desktop\C#FinalProjekt\obj\Debug\net7.0\C#FinalProjekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\august.wendel\Desktop\C#FinalProjekt\obj\Debug\net7.0\C#FinalProjekt.AssemblyInfoInputs.cache
+C:\Users\august.wendel\Desktop\C#FinalProjekt\obj\Debug\net7.0\C#FinalProjekt.AssemblyInfo.cs
+C:\Users\august.wendel\Desktop\C#FinalProjekt\obj\Debug\net7.0\C#FinalProjekt.csproj.CoreCompileInputs.cache
+C:\Users\august.wendel\Desktop\C#FinalProjekt\bin\Debug\net7.0\C#FinalProjekt.exe
+C:\Users\august.wendel\Desktop\C#FinalProjekt\bin\Debug\net7.0\C#FinalProjekt.deps.json
+C:\Users\august.wendel\Desktop\C#FinalProjekt\bin\Debug\net7.0\C#FinalProjekt.runtimeconfig.json
+C:\Users\august.wendel\Desktop\C#FinalProjekt\bin\Debug\net7.0\C#FinalProjekt.dll
+C:\Users\august.wendel\Desktop\C#FinalProjekt\bin\Debug\net7.0\C#FinalProjekt.pdb
+C:\Users\august.wendel\Desktop\C#FinalProjekt\obj\Debug\net7.0\C#FinalProjekt.dll
+C:\Users\august.wendel\Desktop\C#FinalProjekt\obj\Debug\net7.0\refint\C#FinalProjekt.dll
+C:\Users\august.wendel\Desktop\C#FinalProjekt\obj\Debug\net7.0\C#FinalProjekt.pdb
+C:\Users\august.wendel\Desktop\C#FinalProjekt\obj\Debug\net7.0\C#FinalProjekt.genruntimeconfig.cache
+C:\Users\august.wendel\Desktop\C#FinalProjekt\obj\Debug\net7.0\ref\C#FinalProjekt.dll
